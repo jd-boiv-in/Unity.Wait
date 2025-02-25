@@ -1,0 +1,17 @@
+{
+  "name": "jd.boiv.in.wait",
+  "version": "1.0.0",
+  "displayName": "Wait",
+  "description": "WaitForSeconds but without alloc",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "alloc", "coroutine"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
