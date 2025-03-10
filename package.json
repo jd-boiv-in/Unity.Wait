@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "displayName": "Wait",
   "description": "WaitForSeconds but without alloc",
+  "license": "MIT",
   "dependencies": {
   
   },
