@@ -4,9 +4,9 @@
   "displayName": "Wait",
   "description": "WaitForSeconds but without alloc",
   "dependencies": {
-    
- },
- "keywords": [
+  
+  },
+  "keywords": [
     "alloc", "coroutine"
   ],
   "author": {
